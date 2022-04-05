@@ -34,4 +34,4 @@ def get_max_n_dist(string, n):
 				res = s
 	return res
 
-print(get_max_n_dist(string, ))
+print(get_max_n_dist(string, 4))
